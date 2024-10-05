@@ -30,7 +30,6 @@ This app, allows users to manage a list of products by viewing, adding, updating
 - **Node.js**: JavaScript runtime environment for backend
 - **Express.js**: Web framework for building APIs
 - **MongoDB & Mongoose**: NoSQL database and object data modeling (ODM)
-- **JWT**: Authentication (optional if you're planning to add auth)
 
 ### Screenshoots
 
