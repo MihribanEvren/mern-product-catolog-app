@@ -39,4 +39,3 @@ This app, allows users to manage a list of products by viewing, adding, updating
 ![Update Modal](./update-modal.png)
 ![Home Page Dark Theme](./home-page-dark.png)
 ![Create Page Dark Theme](./create-page-dark.png)
-![Responsive Page](./home-responsive-1.png)
