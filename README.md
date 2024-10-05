@@ -7,6 +7,7 @@ Catalog app is a product management application that allows users to list, updat
 This app, allows users to manage a list of products by viewing, adding, updating, and deleting them. The goal is to offer a simple and efficient product management tool for small businesses or e-commerce platforms.
 
 ## Features
+
 - Product listing and detailed view
 - Add, edit, and delete products
 - Responsive design
@@ -16,6 +17,7 @@ This app, allows users to manage a list of products by viewing, adding, updating
 ## Technologies Used
 
 ### Frontend
+
 - **React**: Frontend framework for building the UI
 - **Chakra UI**: UI component library for responsive design
 - **React Router**: For client-side routing
@@ -24,7 +26,17 @@ This app, allows users to manage a list of products by viewing, adding, updating
 - **ESLint**: For code quality and linting
 
 ### Backend
+
 - **Node.js**: JavaScript runtime environment for backend
 - **Express.js**: Web framework for building APIs
 - **MongoDB & Mongoose**: NoSQL database and object data modeling (ODM)
 - **JWT**: Authentication (optional if you're planning to add auth)
+
+### Screenshoots
+
+![Home Page](./home-page.png)
+![Create Page](./create-page.png)
+![Update Modal](./update-modal.png)
+![Home Page Dark Theme](./home-page-dark.png)
+![Create Page Dark Theme](./create-page-dark.png)
+![Responsive Page](./home-responsive-1.png)
