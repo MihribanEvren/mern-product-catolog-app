@@ -1,42 +1,30 @@
-MIHI - Product Catalog App
-This project is a MERN stack application designed for managing and displaying a collection of products. The frontend uses modern UI libraries and technologies like React, Chakra UI and Zustand, while the backend is powered by Express.js and MongoDB.
+# Product Catalog App
 
-Key Features:
-Product Listings: Display a range of products with images, titles, and prices.
-CRUD Functionality: Users can add, edit, and delete products.
-Responsive Design: Optimized for both desktop and mobile devices using Chakra UI.
-Smooth Animations: Framer Motion is used for seamless transitions and animations.
-User-Friendly UI: Designed with Chakra UI components for a clean and modern look.
-State Management: Zustand is used for efficient and scalable state management.
-React Router: Navigation is handled using React Router, making the app feel like a Single Page Application (SPA).
-Environment Configurations: Environment variables are managed with dotenv to ensure flexibility between development and production environments.
+Catalog app is a product management application that allows users to list, update, and delete products. It is built using the MERN stack and provides a modern user interface for easy management.
 
-Overview:
-The CRUD app allows users to view and manage a list of products. It provides an easy-to-use interface for adding, editing, and deleting product details. The app uses a full MERN (MongoDB, Express, React, Node.js) stack and integrates several popular libraries to enhance user experience and development speed.
+## Overview
 
-Features:
-Product Listing: Display a list of products with detailed information such as name, price, and image.
-CRUD Operations: Create, Read, Update, and Delete products through a sleek interface.
-Responsive Design: Optimized for all screen sizes.
-Dark Mode: Users can toggle between light and dark mode.
-State Management: Utilizes Zustand for efficient state handling.
-Routing: React Router is used for handling different routes in the app.
-Animations: Smooth transitions and animations are powered by Framer Motion.
-Technologies Used:
-Frontend:
-React: UI framework for building components and handling state.
-Vite: Development tool for fast builds and hot module replacement.
-Chakra UI: A simple, modular, and accessible component library that gives your app a clean, modern look.
-Zustand: A lightweight state management solution.
-Framer Motion: A powerful library for handling animations and transitions.
-React Router: Enables dynamic routing in the app.
-React Icons: For a set of customizable icons.
-ESLint: For maintaining code quality and consistency.
-Backend:
-Node.js: JavaScript runtime environment for building fast and scalable server-side applications.
-Express.js: Fast, minimalist web framework for Node.js.
-MongoDB: NoSQL database used to store product data.
-Mongoose: ODM library for MongoDB and Node.js.
-dotenv: For environment variable management.
-Nodemon: Automatically restarts the server during development.
-cross-env: For setting environment variables across platforms.
+This app, allows users to manage a list of products by viewing, adding, updating, and deleting them. The goal is to offer a simple and efficient product management tool for small businesses or e-commerce platforms.
+
+## Features
+- Product listing and detailed view
+- Add, edit, and delete products
+- Responsive design
+- Dark and light theme support
+- Optimized performance with state management
+
+## Technologies Used
+
+### Frontend
+- **React**: Frontend framework for building the UI
+- **Chakra UI**: UI component library for responsive design
+- **React Router**: For client-side routing
+- **Zustand**: State management
+- **Framer Motion**: Animations for a smooth user experience
+- **ESLint**: For code quality and linting
+
+### Backend
+- **Node.js**: JavaScript runtime environment for backend
+- **Express.js**: Web framework for building APIs
+- **MongoDB & Mongoose**: NoSQL database and object data modeling (ODM)
+- **JWT**: Authentication (optional if you're planning to add auth)
