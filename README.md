@@ -18,7 +18,7 @@ This app, allows users to manage a list of products by viewing, adding, updating
 
 ### Frontend
 
-- **React**: Frontend framework for building the UI
+- **React**: Frontend library for building the UI
 - **Chakra UI**: UI component library for responsive design
 - **React Router**: For client-side routing
 - **Zustand**: State management
